@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">	
+	<title>Food</title>
+<style>
+
+.sm-color{
+	background: burlywood;
+}
+	
+.md-color{
+	background-color :burlywood;
+}
+	div{
+		box-sizing: border-box;
+		font-size: 30px
+	}
+
+	* {
+		box-sizing: border-box;
+	}
+
+	h1{margin-bottom: 15px;
+		text-align: center;
+	}
+
+	div {
+		clear: right;
+		font-size: 24px
+		height: 200px;
+		border: 5px
+		margin-left: 10;
+		margin-right: 10;
+		
+			}
+
+	p{
+	  border: 1px solid black;
+	  width: 90%;
+	  height: 150px;
+	  margin-right: auto;
+	  margin-left: auto;
+	  font-family: Helvetica;
+		color: black;
+		overflow: auto;
+		font-size: 24
+	}
+
+	h2{
+		background: red;
+		text-align: center;
+	}
+
+
+
+	.row {
+		width: 100%;
+	}
+@media (min-width: 1200px) {
+		.col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
+			float: left;
+			border: 1px solid green;
+			background-color: burlywood;
+		}
+		.col-lg-1 {
+			width: 8.33%;
+		}
+
+		.col-lg-2{
+			width:16.66%;
+		}
+		.col-lg-3{
+			width:25%;}
+
+		.col-lg-4{
+			width:33%;}
+
+		.col-lg-5{
+			width:41.66%;}
+
+		.col-lg-6{
+			width:50%;}
+
+		.col-lg-7{
+			width:58.33%;}
+
+		.col-lg-8{
+			width:66.66%;}
+
+		.col-lg-9{
+			width: 74.99%;}
+
+		.col-lg-10{
+			width:88.33%;}
+
+		.col-lg-11{
+			width:91.66%;}
+
+		.col-lg-12{
+			width:100%;}						
+
+	}
+@media (min-width: 950px) and (max-width: 1199) {
+	.col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+			float: left;
+			border: 1px solid green; 
+			background-color: burlywood;	
+	}
+	.col-md-1 {
+			width: 8.33%;
+		}
+
+		.col-md-2{
+			width:16.66%;
+		}
+		.col-md-3{
+			width:25%;}
+
+		.col-md-4{
+			width:33%;}
+
+		.col-md-5{
+			width:41.66%;}
+
+		.col-md-6{
+			width:50%;}
+
+		.col-md-7{
+			width:58.33%;}
+
+		.col-md-8{
+			width:66.66%;}
+
+		.col-md-9{
+			width: 74.99%;}
+
+		.col-md-10{
+			width:88.33%;}
+
+		.col-md-11{
+			width:91.66%;}
+
+		.col-md-12{
+			width:100%;}
+
+	
+
+
+</style>
+</head>
+<body>
+
+<h1>Welcome to all about thai and chinese food</h1>
+
+<h2>Read below to find out more on each type of food</h2>
+
+
+<div class="row">
+	<p class="col-lg-12 col-md-6 md-color col-sm-4 sm-color">Are you wondering where to go for dinner? Do you want something new but not too far out of you comfort zone? Should you go to a Thai restaurant or a Chinese restaurant? In this paper I will write about the differences between Thai food and Chinese food</p>
+
+	<p class="col-lg-12 col-md-6 md-color col-sm-4 sm-color">First of all Thai food is healthier than Chinese food. This is because Thai food traditionally uses fresh herbs and spices while Chinese do not use as much of herbs and spices and when they do they are not fresh. Thai is also healthier because they use very little oil in their dishes while Chinese load there dishes with unhealthy sauces such as soy sauce and oil. The Chinese cuisine is famous for their very unhealthy and oily chicken</p>
+
+	<p class="col-lg-12 col-md-6 md-color col-sm-4 sm-color">Lastly is the taste and look of the meals prepared. When many think of Thai food they think of spicy food and with many of the Thai dishes comes a kick of spiciness. However the Chinese normally do not come to mind when someone thinks of spicy cuisines. All restaurants normally want their food to look presentable but Chinese chef place good food presentation above most other standards</p>
+
+	<p class="col-lg-12 col-md- 6 md-color col-sm-4 sm-color">Now you can see how Chinese food and Thai food are different and you know what to expect from each one. So, if you want to have spicy food or drunken noodles go to the Thai restaurant. But if you want mild sweet and sour chicken go to the Chinese restaurant.</p>
+	
+
+<img src="https://www.chinadiscovery.com/assets/images/travel-guide/food/sweet-and-sour-pork-tenderloin.jpg" width="700" height="400" alt="">
+
+<img src="https://i2.wp.com/langyaw.com/wp-content/uploads/2014/12/thai-me-up-1.jpg?ssl=1" width="600" height="-700" alt="food">
+	
+</div>
+</body>
+
+</html>
